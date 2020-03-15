@@ -1,0 +1,20 @@
+{
+  "name": "hw-3-public-repo-example",
+  "version": "1.0.0",
+  "description": "Данный репозиторий нужен в качестве примера для 3-го ДЗ. Основная работа выполнена в [hw-3-ci-server](https://github.com/dvdvdmt/hw-3-ci-server)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node fake-build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvdvdmt/hw-3-public-repo-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvdvdmt/hw-3-public-repo-example/issues"
+  },
+  "homepage": "https://github.com/dvdvdmt/hw-3-public-repo-example#readme"
+}
