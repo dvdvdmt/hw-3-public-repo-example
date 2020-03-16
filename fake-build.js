@@ -20,6 +20,6 @@ function postLogMessageOrExit(timePassed=0, messageCounter=1) {
 }
 
 function buildMustFail() {
-  const errorProbability = 0.05;
+  const errorProbability = 0.1;
   return errorProbability >= Math.random();
 }
